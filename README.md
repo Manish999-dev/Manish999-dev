@@ -8,7 +8,7 @@
 
 
 ## About me
-Hi, I'm Manish. Currently I am an undergraduate student of Information Science in Kyushu Sangyo University.
+Hi, I'm _**Manish**_. Currently I am an undergraduate student of **Information Science in Kyushu Sangyo University**.
 
 <!-- TO DO: add more details about me later -->
 
