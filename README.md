@@ -26,7 +26,7 @@ I'm currently developing a **voice-navigated website** designed to enhance acces
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python, SQL, HTML, CSS
+- **Languages**: Java, JavaScript, Python, SQL, HTML, CSS
 - **Frameworks**: React.js, Node.js
 - **Tools**: Git, GitHub, VS Code, Figma, Postman
 
