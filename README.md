@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a passionate Web Developer and a Software Engineer recently graduated in Bachelor's in Information Science at Kyushu Sangyo University, Japan.<br><br>I love building useful, creative things on the web—especially projects that make tech more inclusive.<br>During my time in university i developed a voice-navigated website designed to enhance accessibility for people with disabilities. This is my attempt to combine full-stack development with human-centered design.
 
-　私は情熱あふれるWeb開発者兼ソフトウェアエンジニアで、最近、九州産業大学で情報科学の学士号を取得しました。<br><br>　私は、ウェブ上で有用で創造的なものを作るのが大好きです。特に、テクノロジーをより多くの人々が利用しやすいものにするプロジェクトに情熱を注いでいます。<br>　大学在学中、障がいのある方々のアクセシビリティを向上させることを目的とした、音声操作対応のウェブサイトを開発しました。これは、フルスタック開発と人間中心設計を融合させた私の試みです。
+私は情熱あふれるWeb開発者兼ソフトウェアエンジニアで、最近、九州産業大学で情報科学の学士号を取得しました。<br><br>私は、ウェブ上で有用で創造的なものを作るのが大好きです。特に、テクノロジーをより多くの人々が利用しやすいものにするプロジェクトに情熱を注いでいます。<br>大学在学中、障がいのある方々のアクセシビリティを向上させることを目的とした、音声操作対応のウェブサイトを開発しました。これは、フルスタック開発と人間中心設計を融合させた私の試みです。
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magarmanish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kr-dangal-magar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magarmanish020@gmail.com) 
