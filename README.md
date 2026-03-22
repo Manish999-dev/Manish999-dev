@@ -1,65 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+# 💫 About Me:
+I'm a passionate Web Developer and a Software Engineer recently graduated in Bachelor's in Information Science at Kyushu Sangyo University, Japan.<br><br>I love building useful, creative things on the web—especially projects that make tech more inclusive.<br>During my time in university i developed a voice-navigated website designed to enhance accessibility for people with disabilities. This is my attempt to combine full-stack development with human-centered design.
 
-# Hi there, I'm Manish 👋
 
-I'm a passionate Web Developer and aspiring Software Engineer currently pursuing my Bachelor's in **Information Science at Kyushu Sangyo University, Japan** 🇯🇵. 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magarmanish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kr-dangal-magar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magarmanish020@gmail.com) 
 
-I love building useful, creative things on the web—especially projects that make tech more inclusive.
-
----
-
-## 🔭 What I'm working on
-I'm currently developing a **voice-navigated website** designed to enhance accessibility for people with disabilities. This is my attempt to combine full-stack development with human-centered design.
-
----
-
-## 🌱 What I'm learning
-- Full-stack development using **React**, **Node.js**, and **Express**
-- **Voice Recognition APIs** and **Web Accessibility Standards (WCAG)**
-- Clean UI/UX with **Tailwind CSS** and **Framer Motion**
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Java, JavaScript, Python, SQL, HTML, CSS
-- **Frameworks**: React.js, Node.js
-- **Tools**: Git, GitHub, VS Code, Figma, Postman
-
-<details>
-<summary>📊 My top languages</summary>
-
-| Rank | Language    |
-|------|-------------|
-| 1    | Java         |
-| 2    | JavaScript   |
-| 3    | Python       |
-
-</details>
-
----
-
-## ✨ Fun facts about me
-
-- I'm an introvert 🤫 with extrovert energy ⚡
-- I enjoy watching anime 🎌, playing guitar 🎸, and football ⚽
-- Fluent in **English**, **Nepali**, **Hindi** and **Japanese (JLPT N2)** 🈚
-
----
-
-> _“If we pull together and commit ourselves, then we can push through anything.”_
-
----
-
-## 📫 How to reach me
-
-- 💌 Email: [magarmanish020@gmail.com](mailto:magarmanish020@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/manish-kr-dangal-magar/)
-
----
-
-Thanks for stopping by! 😄
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manish999-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Manish999-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish999-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
